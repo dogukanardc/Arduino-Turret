@@ -8,7 +8,9 @@
 
 #Pins
 
-trigger_pin1 = 12;
-echo_pin1 = 13;
-trigger_pin2 = 11;
-echo_pin2 = 10;
+trigger_pin1 = 12
+echo_pin1 = 13
+trigger_pin2 = 11
+echo_pin2 = 10
+
+❮img src="Arduino-Turret.png" ❯
