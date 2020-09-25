@@ -18,3 +18,9 @@ echo_pin2 = 10
 
 
 ![](Arduino-Turret.png)
+
+REAL Photos
+
+![](Project-Arduino-Turret1.jpeg)
+
+![](Project-Arduino-Turret2.jpeg)
